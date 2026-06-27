@@ -1,9 +1,21 @@
-# Awesome-VFX-AI-Agents
-## Top VFX Video Building AI Agents Ecosystem
+# 🎬 Awesome-VFX-AI-Agents 🚀
+
+![Awesome VFX AI Agents Banner](assets/banner.svg)
+
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## 🌟 Top VFX Video Building AI Agents Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Powered Video Generation, Visual Effects & Cinematic Content Creation*  
 **Last updated: March 2026**
+
+---
 
 This repository tracks notable **SaaS platforms** and **open-source projects** building **VFX Video AI Agents**. These tools generate, edit, and enhance high-quality video content with cinematic effects, motion, transitions, object manipulation, and realistic visuals from text, images, or video prompts.
 
@@ -11,15 +23,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 **Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local GPU execution, model fine-tuning, and unlimited creative output — ideal for filmmakers, VFX artists, and developers who want full control without subscription costs.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+🤝 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📌 Table of Contents
+- [📊 SaaS Products](#-saas-products)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [💡 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#-disclaimer)
 
-## SaaS Products
+## 📊 SaaS Products
 
 ### Core Platforms (VFX Video AI Agents)
 
@@ -36,7 +48,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Pika](https://pika.art/)** | Fast and accessible AI video platform with strong lip-sync and character animation. | **~$700 Million** (Valuation) | Paid subscriptions starting from ~$8/mo (billed annually). | Free tier provides ~80 credits/month; watermarked; 480p resolution limit; personal use only. |
 | **[DeepMotion](https://www.deepmotion.com/)** | AI motion capture and animation platform for realistic character movement. | **~$5 Million** (Estimated) | Paid tiers (Animate 3D Starter/Pro/Studio) starting at ~$9/mo (Starter). | Freemium tier includes 2 mins/month of animation; expandable via credit tasks. |
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 - **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [![GitHub stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers)  
   Node-based workflow tool for building advanced VFX and video generation pipelines with full control.
@@ -83,7 +95,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom agents**: Combine **Open-Sora**, **AnimateDiff**, **ComfyUI**, and **LangGraph** with **Ollama** for fully local, powerful VFX video generation agents.
 
-## How to Contribute
+## 💡 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -92,7 +104,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Generated video content should respect copyright and intellectual property laws.
