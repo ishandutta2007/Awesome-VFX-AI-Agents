@@ -38,45 +38,47 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-### Dedicated VFX Video & Animation AI Agents
-
-- **[Open-Sora](https://github.com/hpcaitech/Open-Sora)**  
-  Leading open-source video generation model with strong VFX and cinematic capabilities.
-
-- **[AnimateDiff](https://github.com/guoyww/AnimateDiff)**  
-  Popular open-source tool for creating high-quality animated videos with temporal consistency.
-
-- **[Stable Video Diffusion](https://github.com/Stability-AI/generative-models)**  
-  Open-source video generation models from Stability AI for realistic VFX and motion.
-
-- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**  
+- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [![GitHub stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers)  
   Node-based workflow tool for building advanced VFX and video generation pipelines with full control.
 
-- **[Deforum Stable Diffusion](https://github.com/deforum-art/deforum-stable-diffusion)**  
-  Open-source tool for creating stunning animated videos and VFX from text prompts.
+- **[Godot Engine](https://github.com/godotengine/godot)** [![GitHub stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)  
+  Real-time VFX, 3D/2D game engine, and interactive animation pipeline.
 
-- **[Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero)**  
-  Zero-shot text-to-video generation with strong VFX potential.
+- **[Stable Video Diffusion](https://github.com/Stability-AI/generative-models)** [![GitHub stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social&color=white)](https://github.com/Stability-AI/generative-models/stargazers)  
+  Open-source video generation models from Stability AI for realistic VFX and motion.
 
-- **[ModelScope Text-to-Video](https://github.com/modelscope/modelscope)**  
-  Open-source video generation framework with multiple models for cinematic output.
+- **[Blender](https://github.com/blender/blender)** [![GitHub stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+  Industry-standard 3D creation suite with AI add-ons for VFX pipelines.
 
-- **[VideoCrafter](https://github.com/AILab-CVC/VideoCrafter)**  
-  Open-source high-quality video generation and editing toolkit.
-
-- **[CogVideo](https://github.com/THUDM/CogVideo)**  
+- **[CogVideo](https://github.com/THUDM/CogVideo)** [![GitHub stars](https://img.shields.io/github/stars/THUDM/CogVideo?style=social&color=white)](https://github.com/THUDM/CogVideo/stargazers)  
   Open-source text-to-video model from Tsinghua University with excellent motion handling.
 
-- **[Show-1](https://github.com/showlab/Show-1)**  
+- **[Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero)** [![GitHub stars](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero?style=social&color=white)](https://github.com/Picsart-AI-Research/Text2Video-Zero/stargazers)  
+  Zero-shot text-to-video generation with strong VFX potential.
+
+- **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** [![GitHub stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social&color=white)](https://github.com/guoyww/AnimateDiff/stargazers)  
+  Popular open-source tool for creating high-quality animated videos with temporal consistency.
+
+- **[Open-Sora](https://github.com/hpcaitech/Open-Sora)** [![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social&color=white)](https://github.com/hpcaitech/Open-Sora/stargazers)  
+  Leading open-source video generation model with strong VFX and cinematic capabilities.
+
+- **[ModelScope Text-to-Video](https://github.com/modelscope/modelscope)** [![GitHub stars](https://img.shields.io/github/stars/modelscope/modelscope?style=social&color=white)](https://github.com/modelscope/modelscope/stargazers)  
+  Open-source video generation framework with multiple models for cinematic output.
+
+- **[VideoCrafter](https://github.com/AILab-CVC/VideoCrafter)** [![GitHub stars](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter?style=social&color=white)](https://github.com/AILab-CVC/VideoCrafter/stargazers)  
+  Open-source high-quality video generation and editing toolkit.
+
+- **[Deforum Stable Diffusion](https://github.com/deforum-art/deforum-stable-diffusion)** [![GitHub stars](https://img.shields.io/github/stars/deforum-art/deforum-stable-diffusion?style=social&color=white)](https://github.com/deforum-art/deforum-stable-diffusion/stargazers)  
+  Open-source tool for creating stunning animated videos and VFX from text prompts.
+
+- **[Show-1](https://github.com/showlab/Show-1)** [![GitHub stars](https://img.shields.io/github/stars/showlab/Show-1?style=social&color=white)](https://github.com/showlab/Show-1/stargazers)  
   Open-source hybrid video generation model combining strengths of different architectures.
 
-### Additional Strong Open-Source Options
+### Other Strong Options & Pipelines (Non-Repository / Guides)
 
-- **[Stable Diffusion + ControlNet** for precise VFX control in video.
-- **[RunwayML open-source alternatives** and community forks.
-- **[Blender](https://github.com/blender/blender)** with AI add-ons for VFX pipelines.
-- **[Godot Engine](https://github.com/godotengine/godot)** for real-time VFX and animation.
-- **[FFmpeg** with AI filters for post-processing generated video.
+- **Stable Diffusion + ControlNet** for precise VFX control in video.
+- **RunwayML open-source alternatives** and community forks.
+- **FFmpeg** with AI filters for post-processing generated video.
 - Many community **ComfyUI workflows** specifically for VFX and cinematic video.
 
 **Frameworks for building custom agents**: Combine **Open-Sora**, **AnimateDiff**, **ComfyUI**, and **LangGraph** with **Ollama** for fully local, powerful VFX video generation agents.
