@@ -23,35 +23,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (VFX Video AI Agents)
 
-- **[Runway Gen-4.5](https://runwayml.com/)**  
-  Leading AI video generation platform with advanced VFX, motion control, and cinematic tools.
-
-- **[OpenAI Sora 2](https://openai.com/sora)**  
-  Highly realistic text-to-video model capable of complex scenes and physical interactions.
-
-- **[Kling 3.0](https://kling.ai/)**  
-  Powerful AI video generator with strong motion and character consistency.
-
-- **[Google Veo 3.1](https://deepmind.google/technologies/veo/)**  
-  Advanced video generation model with cinematic quality and precise control.
-
-- **[Luma Dream Machine](https://lumalabs.ai/dream-machine)**  
-  Creative AI video tool focused on surreal and high-quality VFX generation.
-
-- **[Pika](https://pika.art/)**  
-  Fast and accessible AI video platform with strong lip-sync and character animation.
-
-- **[Wonder Studio](https://wonder.studio/)**  
-  AI VFX platform for character performance and scene integration.
-
-- **[Adobe After Effects (Sensei)](https://www.adobe.com/products/aftereffects)**  
-  Industry-standard VFX tool with powerful AI features via Sensei.
-
-- **[DeepMotion](https://www.deepmotion.com/)**  
-  AI motion capture and animation platform for realistic character movement.
-
-- **[Higgsfield.ai](https://higgsfield.ai/)**  
-  Innovative AI video and VFX generation platform with creative tools.
+| SaaS Product | Description | Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Runway Gen-4.5](https://runwayml.com/)** | Leading AI video generation platform with advanced VFX, motion control, and cinematic tools. | Standard from ~$12/mo (billed annually). Credits-based plans. | One-time trial of 125 non-renewing credits; watermarked outputs; personal use only. |
+| **[OpenAI Sora 2](https://openai.com/sora)** | Highly realistic text-to-video model capable of complex scenes and physical interactions. | Requires ChatGPT Plus ($20/mo) or Pro subscription. | No free tier (free access discontinued). |
+| **[Kling 3.0](https://kling.ai/)** | Powerful AI video generator with strong motion and character consistency. | Subscription plans (Standard/Pro/Premier/Ultra) available. | Free daily allotment of credits (approx. 66 credits/day, non-rolling); watermarked; standard resolution. |
+| **[Google Veo 3.1](https://deepmind.google/technologies/veo/)** | Advanced video generation model with cinematic quality and precise control. | Paid subscription (e.g. Gemini Advanced) or usage-based pricing on Vertex AI. | Available via Google AI Studio/VideoFX (free trial credits or daily usage quotas apply). |
+| **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** | Creative AI video tool focused on surreal and high-quality VFX generation. | Paid plans (Lite/Plus/Pro/Unlimited) starting at ~$7.99/mo (Lite) or $24/mo (Plus). | Free tier provides ~30 generations/month (or ~80 daily credits); watermarked; personal use only. |
+| **[Pika](https://pika.art/)** | Fast and accessible AI video platform with strong lip-sync and character animation. | Paid subscriptions starting from ~$8/mo (billed annually). | Free tier provides ~80 credits/month; watermarked; 480p resolution limit; personal use only. |
+| **[Wonder Studio](https://wonder.studio/)** | AI VFX platform for character performance and scene integration. | Part of Autodesk Flow. Individual subscription is ~$150/mo. | Free tier offers 300 credits/month; limited to 1 concurrent generation. |
+| **[Adobe After Effects (Sensei)](https://www.adobe.com/products/aftereffects)** | Industry-standard VFX tool with powerful AI features via Sensei. | Creative Cloud subscription (Single App ~$22.99 - $34.99/mo). | No free tier (7-day free trial only). |
+| **[DeepMotion](https://www.deepmotion.com/)** | AI motion capture and animation platform for realistic character movement. | Paid tiers (Animate 3D Starter/Pro/Studio) starting at ~$9/mo (Starter). | Freemium tier includes 2 mins/month of animation; expandable via credit tasks. |
+| **[Higgsfield.ai](https://higgsfield.ai/)** | Innovative AI video and VFX generation platform with creative tools. | Paid subscriptions (Starter/Plus/Ultra) starting at ~$9.99/mo. | Free tier provides ~50 credits/month; watermarked; personal use only. |
 
 ## Open-Source GitHub Projects
 
