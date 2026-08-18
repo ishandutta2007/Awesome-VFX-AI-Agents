@@ -50,9 +50,6 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ## 💻 Open-Source GitHub Projects
 
-- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=social&color=white)](https://github.com/Orkas-AI/Orkas-VideoStudio/stargazers)
-  Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, editing, analysis, and rendering with editable timelines.
-
 - **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [![GitHub stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers)  
   Node-based workflow tool for building advanced VFX and video generation pipelines with full control.
 
@@ -88,6 +85,9 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 - **[Show-1](https://github.com/showlab/Show-1)** [![GitHub stars](https://img.shields.io/github/stars/showlab/Show-1?style=social&color=white)](https://github.com/showlab/Show-1/stargazers)  
   Open-source hybrid video generation model combining strengths of different architectures.
+
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=social&color=white)](https://github.com/Orkas-AI/Orkas-VideoStudio/stargazers)
+  Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, editing, analysis, and rendering with editable timelines.
 
 ### Other Strong Options & Pipelines (Non-Repository / Guides)
 
